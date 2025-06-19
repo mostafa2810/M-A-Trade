@@ -144,7 +144,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/plastic-shopping-bags-with-logo22047037060.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/plastic-shopping-bags-with-logo22047037060.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -165,7 +165,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/fas.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/fas.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -186,7 +186,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/stretch-wrap-film-tubing.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/stretch-wrap-film-tubing.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -207,7 +207,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/616be5a8-2c45-47f5-a622-41ade7ea73fb.jfif");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/616be5a8-2c45-47f5-a622-41ade7ea73fb.jfif");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -228,7 +228,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/51iDnrciigL._AC_UL495_SR435495_.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/51iDnrciigL._AC_UL495_SR435495_.jpg");
   background-position: 53.78% 50%;
   --radius: 15px;
 }
@@ -249,7 +249,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/IMG-20220303-WA0022.webp");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/IMG-20220303-WA0022.webp");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -270,7 +270,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/youness.PNG");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/youness.PNG");
   background-position: 0% 50%;
   --radius: 15px;
 }
@@ -291,7 +291,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/download.jfif");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/download.jfif");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -512,7 +512,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign10.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign10.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -533,7 +533,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign8.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign8.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -554,7 +554,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign7.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign7.png");
   --radius: 15px;
   background-position: 38.81% 50%;
 }
@@ -575,7 +575,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign9.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign9.png");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -596,7 +596,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign.jpg");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -617,7 +617,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/41Zn63QR9PL._AC_UF10001000_QL80_.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/41Zn63QR9PL._AC_UF10001000_QL80_.jpg");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -638,7 +638,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/il_794xN.5011666913_aa3r.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/il_794xN.5011666913_aa3r.png");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -659,7 +659,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/youness2.PNG");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/youness2.PNG");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -693,7 +693,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign11.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign11.png");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -714,7 +714,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/61AMyv1s8L.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/61AMyv1s8L.jpg");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -735,7 +735,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign1.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign1.jpg");
   --radius: 15px;
   background-position: 50% 50%;
 }
@@ -756,7 +756,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/81xCnN5NcL._AC_UF8941000_QL80_.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/81xCnN5NcL._AC_UF8941000_QL80_.jpg");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -777,7 +777,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/010420241501166596c83c3d2de.jpg");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/010420241501166596c83c3d2de.jpg");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -798,7 +798,7 @@
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("images/Untitleddesign12.png");
+  background-image: linear-gradient(0deg, rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)), url("/images/Untitleddesign12.png");
   background-position: 50% 50%;
   --radius: 15px;
 }
@@ -1114,7 +1114,7 @@
 .u-section-4 .u-image-1 {
   width: 83px;
   height: 83px;
-  background-image: url("images/etoile.png");
+  background-image: url("/images/etoile.png");
   background-position: 50% 50%;
   margin: 34px auto 0;
 }
@@ -1122,7 +1122,7 @@
 .u-section-4 .u-image-2 {
   width: 83px;
   height: 83px;
-  background-image: url("images/----4.jpg");
+  background-image: url("/images/----4.jpg");
   background-position: 50% 50%;
   margin: -83px 108px 0 auto;
 }
@@ -1130,7 +1130,7 @@
 .u-section-4 .u-image-3 {
   width: 83px;
   height: 83px;
-  background-image: url("images/l-pZzgP18sZT275RJ779jS-1725248150.jpg");
+  background-image: url("/images/l-pZzgP18sZT275RJ779jS-1725248150.jpg");
   background-position: 50% 50%;
   margin: -83px auto 0 108px;
 }
@@ -1146,7 +1146,7 @@
 .u-section-4 .u-image-4 {
   width: 83px;
   height: 83px;
-  background-image: url("images/7843cc6c-213b-4a71-b245-297bf3aebf13.jpg");
+  background-image: url("/images/7843cc6c-213b-4a71-b245-297bf3aebf13.jpg");
   background-position: 50% 50%;
   margin: 34px auto 0;
 }
@@ -1154,7 +1154,7 @@
 .u-section-4 .u-image-5 {
   width: 83px;
   height: 83px;
-  background-image: url("images/images3.png");
+  background-image: url("/images/images3.png");
   background-position: 50% 50%;
   margin: -83px 108px 0 auto;
 }
@@ -1162,7 +1162,7 @@
 .u-section-4 .u-image-6 {
   width: 83px;
   height: 83px;
-  background-image: url("images/images2.png");
+  background-image: url("/images/images2.png");
   background-position: 50% 50%;
   margin: -83px auto 0 108px;
 }
@@ -1178,7 +1178,7 @@
 .u-section-4 .u-image-7 {
   width: 83px;
   height: 83px;
-  background-image: url("images/449724111_431131103224400_1298204303527207281_n.jpg");
+  background-image: url("/images/449724111_431131103224400_1298204303527207281_n.jpg");
   background-position: 50% 50%;
   margin: 34px auto 0;
 }
@@ -1186,7 +1186,7 @@
 .u-section-4 .u-image-8 {
   width: 83px;
   height: 83px;
-  background-image: url("images/462664765_8579080122168830_2485494675561808206_n.jpg");
+  background-image: url("/images/462664765_8579080122168830_2485494675561808206_n.jpg");
   background-position: 50% 50%;
   margin: -83px 108px 0 auto;
 }
@@ -1194,7 +1194,7 @@
 .u-section-4 .u-image-9 {
   width: 83px;
   height: 83px;
-  background-image: url("images/Untitleddesign2.jpg");
+  background-image: url("/images/Untitleddesign2.jpg");
   background-position: 50% 50%;
   margin: -83px auto 0 108px;
 }
@@ -1376,7 +1376,7 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 950px;
+  min-height: 1126px;
 }
 
 .u-section-5 .u-image-1 {
@@ -1392,38 +1392,38 @@
 
 .u-section-5 .u-group-1 {
   width: 800px;
-  min-height: 307px;
+  min-height: 587px;
   height: auto;
   --animation-custom_in-translate_x: -200px;
   --animation-custom_in-translate_y: 0px;
   --animation-custom_in-opacity: 0;
   --animation-custom_in-rotate: 0deg;
   --animation-custom_in-scale: 1;
-  margin: 95px auto 60px;
+  margin: -13px auto 60px;
 }
 
 .u-section-5 .u-container-layout-1 {
-  padding: 22px 60px 30px;
+  padding: 5px 60px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 4.5rem;
-  width: 579px;
-  margin: 1px auto 0;
+  margin: 30px 50px 0;
 }
 
 .u-section-5 .u-text-2 {
   font-size: 2.25rem;
-  margin: 0 auto;
+  width: 262px;
+  margin: 18px auto 0;
 }
 
 .u-section-5 .u-social-icons-1 {
   white-space: nowrap;
-  height: 48px;
+  height: 113px;
   min-height: 16px;
-  width: 184px;
-  min-width: 88px;
-  margin: 37px auto 0 213px;
+  width: 247px;
+  min-width: 52px;
+  margin: 10px auto 0;
 }
 
 .u-section-5 .u-icon-1 {
@@ -1431,18 +1431,32 @@
 }
 
 .u-section-5 .u-icon-2 {
-  color: rgb(197, 54, 164) !important;
-}
-
-.u-section-5 .u-icon-3 {
   height: 100%;
   color: rgb(0, 230, 118) !important;
 }
 
-.u-section-5 .u-image-2 {
-  width: 59px;
-  height: 60px;
-  margin: -54px auto 0 408px;
+.u-section-5 .u-text-3 {
+  font-size: 2.25rem;
+  margin: 144px auto 0;
+}
+
+.u-section-5 .u-text-4 {
+  font-size: 4.5rem;
+  margin: -108px auto 0;
+}
+
+.u-section-5 .u-btn-1 {
+  background-image: none;
+  font-size: 1.25rem;
+  margin: 60px auto 0 71px;
+  padding: 0;
+}
+
+.u-section-5 .u-btn-2 {
+  background-image: none;
+  font-size: 1.25rem;
+  margin: -30px auto 0 394px;
+  padding: 0;
 }
 
 @media (max-width: 1199px) {
@@ -1461,18 +1475,22 @@
     padding-right: 30px;
   }
 
-  .u-section-5 .u-social-icons-1 {
-    margin-left: 203px;
+  .u-section-5 .u-text-4 {
+    margin-left: 65px;
   }
 
-  .u-section-5 .u-image-2 {
-    margin-left: 398px;
+  .u-section-5 .u-btn-1 {
+    margin-left: 56px;
+  }
+
+  .u-section-5 .u-btn-2 {
+    margin-left: 379px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 773px;
+    min-height: 1076px;
   }
 
   .u-section-5 .u-image-1 {
@@ -1481,40 +1499,46 @@
   }
 
   .u-section-5 .u-group-1 {
-    min-height: 373px;
-    margin-top: 0;
-    margin-bottom: 0;
-    margin-right: initial;
-    margin-left: initial;
-    width: auto;
+    width: 540px;
+    min-height: 700px;
+    margin-top: 37px;
   }
 
   .u-section-5 .u-container-layout-1 {
-    padding-left: 20px;
-    padding-right: 20px;
+    padding-left: 0;
+    padding-right: 0;
   }
 
   .u-section-5 .u-text-1 {
+    margin-left: 70px;
+    margin-right: 70px;
+  }
+
+  .u-section-5 .u-text-3 {
     width: auto;
-    font-size: 3rem;
-    margin-left: 0;
-    margin-right: 0;
   }
 
-  .u-section-5 .u-social-icons-1 {
-    margin-top: 45px;
-    margin-right: 193px;
-    margin-left: 123px;
+  .u-section-5 .u-text-4 {
+    width: auto;
+    margin-top: -128px;
+    margin-left: 1px;
+    margin-right: 1px;
   }
 
-  .u-section-5 .u-image-2 {
-    margin-left: 318px;
+  .u-section-5 .u-btn-1 {
+    margin-top: 79px;
+    margin-left: 37px;
+  }
+
+  .u-section-5 .u-btn-2 {
+    margin-right: 30px;
+    margin-left: auto;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 625px;
+    min-height: 1049px;
   }
 
   .u-section-5 .u-image-1 {
@@ -1523,28 +1547,46 @@
   }
 
   .u-section-5 .u-group-1 {
-    min-height: 260px;
-    width: auto;
     margin-right: initial;
     margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-5 .u-container-layout-1 {
+    padding-left: 14px;
+    padding-right: 14px;
   }
 
   .u-section-5 .u-text-1 {
     font-size: 1.75rem;
-    margin-right: 30px;
+    margin-left: 76px;
+    margin-right: 76px;
   }
 
   .u-section-5 .u-text-2 {
     font-size: 1.75rem;
   }
 
-  .u-section-5 .u-social-icons-1 {
-    margin-top: 28px;
-    margin-right: 93px;
-    margin-left: 24px;
+  .u-section-5 .u-text-3 {
+    font-size: 1.75rem;
+    margin-top: 87px;
+    margin-left: 48px;
   }
 
-  .u-section-5 .u-image-2 {
-    margin-left: 218px;
+  .u-section-5 .u-text-4 {
+    font-size: 1.75rem;
+    margin-top: -71px;
+    margin-right: auto;
+    margin-left: 45px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    margin-top: 74px;
+    margin-left: auto;
+  }
+
+  .u-section-5 .u-btn-2 {
+    margin-top: 25px;
+    margin-right: auto;
   }
 }
